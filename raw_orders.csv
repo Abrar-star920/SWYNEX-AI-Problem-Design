@@ -1,0 +1,193 @@
+OrderID,CustomerName,City,Category,Quantity,Price,OrderDate
+1160,Emma Patel,Bengaluru,clothing ,5,$3748.73,22-Jun-2025
+1158,Sara Sharma,Mumbai,clothing ,3,$4015.51,07/07/2025
+1002,Priya Khan,Mumbai,groceries,2,3636.89,03/08/2025
+1084,Sara Garcia,CHENNAI,furniture,4,$4257.46,16-Jul-2025
+1028,Carlos Wilson,chennai,Electronics,1,3244.57,2025-01-23
+1066,Sara Khan,Chennai,groceries,2,3308.65,2025-03-14
+1116,Sara Brown,Bengaluru,Groceries,1,2450.82,2025-05-21
+1104,Wei Ahmed,Mumbai,Clothing,5,1964.29,21/10/2025
+1051,Wei Patel,delhi,furniture,1,2977.69,22-Oct-2025
+1057,Aisha Ahmed,Delhi,furniture,2,$2141.13,10-25-2025
+1078,Emma Ahmed,chennai,ELECTRONICS,4,$4831.16,2025-06-19
+1178,Liam Khan,Mumbai,groceries,4,$2735.23,2025-10-16
+1122,Carlos Wilson,CHENNAI,Clothing,2,3416.56,2025-09-27
+1107,Wei Brown,bangalore ,GROCERIES,5,$607.79,2025-03-22
+1164,Aisha Smith,mumbai,groceries,3,4990.99,07-12-2025
+1088,Liam Brown,Bengaluru,furniture,4,$4843.44,2025-06-23
+1169,Fatima Smith,DELHI ,Clothing,,2467.54,2025-03-12
+1130,Aisha Chen,chennai,GROCERIES,1,$4548.12,21/04/2025
+1106,Wei Patel,Chennai,ELECTRONICS,,$3239.23,29/09/2025
+1176,Priya Ahmed,Bengaluru,clothing ,,2612.1,2025-06-09
+1030,Wei Lee,Mumbai,furniture,3,4515.11,01-21-2025
+1034,Liam Brown,Delhi,furniture,2,2986.83,2025-01-20
+1017,Aisha Khan,MUMBAI,Furniture,4,$4075.99,19-Feb-2025
+1070,Priya Ahmed,BANGALORE,Clothing,3,3416.64,18-Jun-2025
+1142,Wei Wilson,BANGALORE,Clothing,,1537.71,14/01/2025
+1010,Noah Patel,DELHI ,clothing ,5,4981.38,2025-10-11
+1065,Aisha Garcia,delhi,furniture,,1557.05,06/02/2025
+1152,John Chen,chennai,Groceries,4,1179.31,06-10-2025
+1146,Wei Patel,Delhi,furniture,4,4998.06,27-Sep-2025
+1133,Priya Wilson,Bangalore,groceries,5,2635.17,2025-10-11
+1153,Noah Chen,Bangalore,Clothing,2,$2439.07,07/05/2025
+1128,Aisha Wilson,MUMBAI,electronics,2,4120.18,14-Jan-2025
+1179,Liam Khan,mumbai,Clothing,5,2320.83,26-Oct-2025
+1037,Noah Chen,BANGALORE,groceries,1,$1658.6,10-24-2025
+1143,Liam Sharma,bangalore ,Groceries,2,$4982.55,09/09/2025
+1148,Liam Smith, Delhi,ELECTRONICS,3,$990.35,04-26-2025
+1016,Liam Khan,Mumbai,electronics,,$3229.29,01-17-2025
+1171,,Chennai,Electronics,4,$3982.21,2025-05-29
+1080,Priya Brown,chennai,Groceries,5,$372.32,28/05/2025
+1126,Fatima Brown,chennai,furniture,4,2613.95,24/03/2025
+1100,Carlos Ahmed,Chennai,electronics,,3324.4,21-Apr-2025
+1139,Carlos Garcia,CHENNAI,clothing ,2,$3510.87,01-22-2025
+1091,Carlos Lee,delhi,Electronics,1,1660.95,19/02/2025
+1022,Liam Smith,Bangalore,Electronics,5,2488.58,29/09/2025
+1073,Aisha Ahmed,Delhi,GROCERIES,2,$3606.96,08-Jan-2025
+1117,Aisha Ahmed,Delhi,Clothing,3,568.31,16-Feb-2025
+1014,Liam Chen,MUMBAI,groceries,2,1472.27,05/08/2025
+1112,Noah Garcia,DELHI ,Electronics,3,1024.99,08-24-2025
+1123,Emma Smith,bangalore ,ELECTRONICS,2,1840.32,09/04/2025
+1182,John Sharma,DELHI ,Clothing,-1,$1393.55,18/08/2025
+1038,Fatima Wilson,CHENNAI,ELECTRONICS,,607.02,2025-06-21
+1154,Noah Patel,Chennai,ELECTRONICS,3,4682.01,08/04/2025
+1052,Priya Patel,Mumbai,furniture,,$3081.98,2025-10-17
+1161,John Brown,Bangalore,clothing ,5,1676.85,14-Jan-2025
+1147,Priya Chen,Bangalore,Groceries,4,$3464.52,10/10/2025
+1134,Noah Brown,Bangalore,Clothing,1,1855.05,02-23-2025
+1003,John Chen,chennai,furniture,2,1233.51,2025-02-22
+1157,Sara Wilson,Bombay,groceries,3,552.95,10-09-2025
+1125,Emma Khan,CHENNAI,furniture,,$3962.24,05-03-2025
+1044,Wei Khan,CHENNAI,ELECTRONICS,,1226.97,19-Jun-2025
+1102,Priya Sharma,DELHI ,electronics,,3746.22,2025-10-12
+1127,Carlos Smith,chennai,groceries,1,3614.72,03-05-2025
+1004,Emma Patel,Bangalore,Groceries,5,799.17,02-10-2025
+1025,Emma Sharma,DELHI ,GROCERIES,5,$4981.26,04-20-2025
+1177,Emma Patel,mumbai,ELECTRONICS,4,935.29,11-Jul-2025
+1048,Carlos Lee,Bengaluru,Groceries,3,1820.0,23-May-2025
+1089,Fatima Lee,Bangalore,clothing ,1,$1469.4,07-08-2025
+1011,Liam Garcia,Bangalore,furniture,4,$959.16,15/05/2025
+1043,Liam Ahmed,Bombay,Groceries,1,$3625.02,06-21-2025
+1027,Priya Chen,Bangalore,electronics,,$2855.47,04-18-2025
+1167,Noah Lee,Bengaluru,furniture,1,1580.63,27-Jun-2025
+1032,Emma Lee,Bombay,ELECTRONICS,,718.86,29/08/2025
+1050,John Patel,mumbai,ELECTRONICS,4,3413.4,22-Apr-2025
+1144,Aisha Chen,Chennai,Clothing,,$1867.64,10-05-2025
+1012,Carlos Wilson,mumbai,Clothing,2,2789.02,2025-09-29
+1079,Liam Ahmed,delhi,clothing ,,$4855.79,05-16-2025
+1093,Aisha Ahmed,Bombay,electronics,,1963.21,2025-07-03
+1092,Aisha Brown,CHENNAI,ELECTRONICS,4,3343.63,07-28-2025
+1159,Liam Smith,Delhi,ELECTRONICS,,1798.6,22/08/2025
+1111,Emma Sharma,CHENNAI,Electronics,4,289.96,10-Jun-2025
+1131,Liam Lee,New Delhi,Furniture,3,$784.87,2025-08-23
+1155,Aisha Garcia,Chennai,electronics,4,2626.13,04-21-2025
+1094,Priya Ahmed,delhi,GROCERIES,1,$442.78,06/03/2025
+1141,Emma Brown,CHENNAI,Electronics,5,936.5,07-09-2025
+1121,Sara Chen,Bangalore,GROCERIES,,$878.86,20/07/2025
+1061,Aisha Sharma, Delhi,furniture,4,$2497.83,01-27-2025
+1069,Carlos Patel,delhi,Groceries,5,3327.25,03-Apr-2025
+1024,Sara Patel,bangalore ,Furniture,,$3637.72,22/07/2025
+1180,John Ahmed,MUMBAI,Groceries,5,477.14,2025-06-07
+1162,Sara Patel,Mumbai,GROCERIES,4,1018.46,14/07/2025
+1020,Wei Lee,chennai,Furniture,4,$4531.73,02-Jan-2025
+1114,Priya Wilson,Bombay,Clothing,,4799.47,17/03/2025
+1054,Carlos Patel,chennai,clothing ,,$3043.88,2025-05-06
+1173,Emma Chen,CHENNAI,furniture,,1093.76,01/06/2025
+1041,Liam Ahmed, Delhi,Furniture,1,2391.02,09-29-2025
+1068,Noah Brown,Bangalore,electronics,2,4817.17,2025-10-22
+1151,Noah Patel,DELHI ,groceries,3,$3281.15,06-May-2025
+1086,Fatima Patel,Bengaluru,Furniture,5,1403.01,2025-03-12
+1083,Aisha Garcia,chennai,Electronics,4,4525.81,2025-03-22
+1045,Noah Lee, Delhi,clothing ,4,$228.3,19-Jul-2025
+1007,Aisha Lee,Bengaluru,Clothing,1,$1299.43,11-Jun-2025
+1156,Sara Ahmed,Bangalore,electronics,4,$842.89,07-Jul-2025
+1110,Carlos Garcia,Bangalore,Electronics,4,$3785.67,14/07/2025
+1055,Aisha Patel,chennai,Electronics,4,$4284.57,04-19-2025
+1124,Carlos Sharma,New Delhi,GROCERIES,2,$3066.78,03/04/2025
+1081,Priya Sharma,Chennai,furniture,1,420.76,05-31-2025
+1023,Wei Sharma,delhi,clothing ,1,4719.66,2025-10-24
+1095,Fatima Patel,mumbai,Clothing,2,3985.49,22/05/2025
+1076,Emma Wilson,Bangalore,furniture,,1633.07,08/09/2025
+1072,Noah Smith,Bombay,GROCERIES,4,3201.96,04-15-2025
+1008,Sara Brown,MUMBAI,clothing ,,$2402.49,05-07-2025
+1132,Sara Wilson, Delhi,GROCERIES,2,$3649.01,01-01-2025
+1120,Noah Lee,Bangalore,Clothing,1,1782.52,07-17-2025
+1145,Wei Brown,Mumbai,Furniture,2,1336.33,07-04-2025
+1150,Sara Chen,Bombay,GROCERIES,1,$4161.13,01-24-2025
+1067,Sara Patel,BANGALORE,electronics,4,3505.65,20-May-2025
+1085,Emma Patel,bangalore ,Electronics,,$2099.87,26-Jan-2025
+1019,Fatima Sharma,CHENNAI,electronics,1,3330.3,2025-01-08
+1174,Noah Lee,Bangalore,clothing ,,657.85,
+1039,Carlos Khan,mumbai,Electronics,1,1375.24,07-Feb-2025
+1172,Priya Brown,BANGALORE,groceries,5,2570.78,16-Sep-2025
+1042,Sara Wilson,CHENNAI,Groceries,2,3769.55,13/05/2025
+1183,Sara Chen,Bangalore,GROCERIES,-1,$878.86,20/07/2025
+1087,Carlos Ahmed, Delhi,Clothing,,830.78,17-Jun-2025
+1099,Priya Sharma,Bengaluru,electronics,2,1520.08,10-08-2025
+1163,Sara Sharma,Mumbai,Groceries,3,2210.15,15-Apr-2025
+1184,Sara Lee,Bengaluru,ELECTRONICS,-1,2568.88,26/02/2025
+1082,Liam Lee,mumbai,ELECTRONICS,1,$3125.56,04-May-2025
+1135,Emma Chen,CHENNAI,Groceries,,$1074.93,2025-08-23
+1075,Liam Chen,Chennai,GROCERIES,5,$3782.2,02-05-2025
+1129,Fatima Lee,New Delhi,Furniture,1,$1729.69,21/06/2025
+1036,Emma Patel,Bangalore,furniture,5,1684.57,07-26-2025
+1015,Fatima Garcia,CHENNAI,Clothing,4,4518.15,07/05/2025
+1056,Sara Garcia, Delhi,Furniture,1,1358.51,12/10/2025
+1060,Emma Chen,Bangalore,groceries,2,1516.69,10-11-2025
+1113,Fatima Lee,CHENNAI,electronics,4,4378.52,04-24-2025
+1103,Emma Sharma,chennai,clothing ,,$446.94,06-09-2025
+1012,Carlos Wilson,mumbai,Clothing,2,2789.02,2025-09-29
+1063,Liam Lee,MUMBAI,Groceries,4,1627.3,08-08-2025
+1013,Priya Brown,Bengaluru,Electronics,2,4414.45,13-Feb-2025
+1149,Carlos Sharma,Bengaluru,groceries,3,$800.82,2025-10-01
+1149,Carlos Sharma,Bengaluru,groceries,3,$800.82,2025-10-01
+1026,Priya Khan,bangalore ,ELECTRONICS,4,4201.98,2025-09-28
+1018,John Sharma,DELHI ,Clothing,1,$1393.55,18/08/2025
+1053,Emma Sharma,Bangalore,clothing ,4,706.59,24/08/2025
+1062,Priya Lee,Chennai,GROCERIES,,$3494.96,10-16-2025
+1005,Emma Patel,Mumbai,Electronics,,$1293.91,10/02/2025
+1109,Aisha Wilson,Bangalore,Furniture,4,$4925.34,04-15-2025
+1009,Sara Lee,Bengaluru,ELECTRONICS,5,2568.88,26/02/2025
+1029,Carlos Chen,CHENNAI,clothing ,5,$246.41,2025-03-18
+1049,John Wilson,New Delhi,Furniture,,529.37,2025-01-21
+1071,Noah Wilson,DELHI ,electronics,3,$1411.51,2025-07-26
+1040,Fatima Lee,chennai,Furniture,2,$3349.08,24-Feb-2025
+1089,Fatima Lee,Bangalore,clothing ,1,$1469.4,07-08-2025
+1118,John Ahmed,Bombay,GROCERIES,4,2606.56,2025-08-19
+1064,Priya Khan,Bombay,electronics,2,1351.35,2025-03-22
+1059,Wei Khan,MUMBAI,furniture,,3030.02,2025-05-25
+1019,Fatima Sharma,CHENNAI,electronics,1,3330.3,2025-01-08
+1137,Emma Smith,bangalore ,electronics,3,2297.37,14-Aug-2025
+1109,Aisha Wilson,Bangalore,Furniture,4,$4925.34,04-15-2025
+1140,John Sharma,chennai,groceries,,3461.17,15-Mar-2025
+1119,Priya Wilson,Mumbai,Furniture,,2301.24,25/09/2025
+1077,Emma Wilson,chennai,Clothing,2,$4907.72,16/07/2025
+1006,Aisha Brown,Bombay,Clothing,2,3416.84,06/02/2025
+1001,Priya Smith,Bengaluru,Furniture,2,3735.06,2025-10-07
+1058,Noah Wilson,bangalore ,Groceries,3,$1671.79,04-09-2025
+1033,Emma Garcia,mumbai,Electronics,,$1127.02,02-05-2025
+1136,Fatima Smith,bangalore ,groceries,4,4947.79,2025-05-10
+1101,Emma Ahmed,chennai,electronics,3,2248.47,11/07/2025
+1138,Aisha Brown,Bangalore,clothing ,1,2266.91,04-03-2025
+1046,Sara Khan,Chennai,furniture,4,$2531.08,27/07/2025
+1031,,CHENNAI,ELECTRONICS,2,4350.11,01-Apr-2025
+1090,Emma Sharma,MUMBAI,Electronics,5,4444.33,2025-04-24
+1168,Fatima Khan,bangalore ,ELECTRONICS,1,3155.25,2025-05-05
+1181,Liam Khan,Mumbai,electronics,-1,$3229.29,01-17-2025
+1139,Carlos Garcia,CHENNAI,clothing ,2,$3510.87,01-22-2025
+1170,Wei Lee,chennai,Furniture,3,1741.6,15/02/2025
+1175,Noah Khan,chennai,Clothing,3,2995.81,05-14-2025
+1021,Aisha Garcia,CHENNAI,groceries,,$3648.36,01/06/2025
+1056,Sara Garcia, Delhi,Furniture,1,1358.51,12/10/2025
+1097,Noah Wilson,Delhi,Groceries,4,3934.48,25-Feb-2025
+1115,Wei Patel,Mumbai,ELECTRONICS,,2571.76,24-Oct-2025
+1098,John Wilson,BANGALORE,Electronics,1,4993.22,2025-08-07
+1096,Wei Sharma,delhi,Electronics,3,$3991.93,2025-06-15
+1108,Noah Ahmed,chennai,furniture,2,$3823.73,2025-08-09
+1166,Carlos Garcia,MUMBAI,Clothing,4,1874.26,05-21-2025
+1017,Aisha Khan,MUMBAI,Furniture,4,$4075.99,19-Feb-2025
+1165,Liam Brown,bangalore ,GROCERIES,4,$1122.87,10-13-2025
+1035,Emma Lee,DELHI ,GROCERIES,2,1422.67,01/01/2025
+1047,Sara Wilson,DELHI ,GROCERIES,5,$3382.4,08/08/2025
+1105,Sara Patel, Delhi,furniture,1,1066.0,06-08-2025
+1074,Priya Ahmed,delhi,Groceries,,1600.94,01-Aug-2025
